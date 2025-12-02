@@ -4,6 +4,8 @@
 
 This is an ancient project of mine built in Alice for an introductory programming course.
 
+https://github.com/user-attachments/assets/271bf803-061a-4487-8a94-12ca371f0db7
+
 ## Release History
 
 ```
